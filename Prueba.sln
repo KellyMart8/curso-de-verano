@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba diagnostica", "prueba diagnostica\prueba diagnostica.csproj", "{BDE7AF1C-C4AB-4165-935D-60E510EB8DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica ListView", "Practica ListView\Practica ListView.csproj", "{5057090B-AD6F-40F6-8A40-981C039631B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba2 DataGridView.", "Prueba2 DataGridView\Prueba2 DataGridView..csproj", "{E63A3CA1-295F-493F-82F3-E158F31880E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas y Estado del estudiante", "Notas y Estado del estudiante\Notas y Estado del estudiante.csproj", "{2AB0109C-BBF8-4004-99E5-5C024F0E932C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pago Efectivo o Credito", "pago Efectivo o Credito\pago Efectivo o Credito.csproj", "{C6A04E93-F2EC-4571-8C7E-6E8C892DBA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica radiobutton", "Practica radiobutton\Practica radiobutton.csproj", "{64D7B155-AF0B-423C-AF78-CC3EF10B3633}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +19,31 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BDE7AF1C-C4AB-4165-935D-60E510EB8DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDE7AF1C-C4AB-4165-935D-60E510EB8DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDE7AF1C-C4AB-4165-935D-60E510EB8DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDE7AF1C-C4AB-4165-935D-60E510EB8DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5057090B-AD6F-40F6-8A40-981C039631B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5057090B-AD6F-40F6-8A40-981C039631B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5057090B-AD6F-40F6-8A40-981C039631B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5057090B-AD6F-40F6-8A40-981C039631B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63A3CA1-295F-493F-82F3-E158F31880E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63A3CA1-295F-493F-82F3-E158F31880E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63A3CA1-295F-493F-82F3-E158F31880E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63A3CA1-295F-493F-82F3-E158F31880E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB0109C-BBF8-4004-99E5-5C024F0E932C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB0109C-BBF8-4004-99E5-5C024F0E932C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB0109C-BBF8-4004-99E5-5C024F0E932C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB0109C-BBF8-4004-99E5-5C024F0E932C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A04E93-F2EC-4571-8C7E-6E8C892DBA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A04E93-F2EC-4571-8C7E-6E8C892DBA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A04E93-F2EC-4571-8C7E-6E8C892DBA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A04E93-F2EC-4571-8C7E-6E8C892DBA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D7B155-AF0B-423C-AF78-CC3EF10B3633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D7B155-AF0B-423C-AF78-CC3EF10B3633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D7B155-AF0B-423C-AF78-CC3EF10B3633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D7B155-AF0B-423C-AF78-CC3EF10B3633}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F996CBDE-44F6-4FA5-896F-29ADF7121715}
+		SolutionGuid = {C3C3E91C-2FDD-4E44-8F96-61373AF3F294}
 	EndGlobalSection
 EndGlobal
