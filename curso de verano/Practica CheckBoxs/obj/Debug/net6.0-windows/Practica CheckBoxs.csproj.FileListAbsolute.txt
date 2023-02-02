@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\bin\Debug\net6.0-windows\Practica CheckBoxs.exe
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\bin\Debug\net6.0-windows\Practica CheckBoxs.deps.json
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\bin\Debug\net6.0-windows\Practica CheckBoxs.runtimeconfig.json
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\bin\Debug\net6.0-windows\Practica CheckBoxs.dll
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\bin\Debug\net6.0-windows\Practica CheckBoxs.pdb
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica_CheckBoxs.Form1.resources
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.csproj.GenerateResource.cache
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.AssemblyInfo.cs
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.dll
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\refint\Practica CheckBoxs.dll
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.pdb
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\Practica CheckBoxs.genruntimeconfig.cache
+C:\Users\User\source\repos\curso de verano\Practica CheckBoxs\obj\Debug\net6.0-windows\ref\Practica CheckBoxs.dll
