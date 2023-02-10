@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\bin\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.exe
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\bin\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.deps.json
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\bin\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\bin\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.dll
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\bin\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.pdb
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo_neto_de_efectivo_DATAGRIDVIEW.Form1.resources
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.dll
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\refint\Flujo neto de efectivo DATAGRIDVIEW.dll
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.pdb
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\Flujo neto de efectivo DATAGRIDVIEW.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Flujo neto de efectivo DATAGRIDVIEW\obj\Debug\net6.0-windows\ref\Flujo neto de efectivo DATAGRIDVIEW.dll
