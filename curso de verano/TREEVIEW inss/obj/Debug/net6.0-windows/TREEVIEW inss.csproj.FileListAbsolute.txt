@@ -1,0 +1,17 @@
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\bin\Debug\net6.0-windows\TREEVIEW inss.exe
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\bin\Debug\net6.0-windows\TREEVIEW inss.deps.json
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\bin\Debug\net6.0-windows\TREEVIEW inss.runtimeconfig.json
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\bin\Debug\net6.0-windows\TREEVIEW inss.dll
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\bin\Debug\net6.0-windows\TREEVIEW inss.pdb
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.csproj.AssemblyReference.cache
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW_inss.Form1.resources
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.csproj.GenerateResource.cache
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.AssemblyInfoInputs.cache
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.AssemblyInfo.cs
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.dll
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\refint\TREEVIEW inss.dll
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.pdb
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\TREEVIEW inss.genruntimeconfig.cache
+C:\Users\JADPA-29\source\repos\curso de verano\TREEVIEW inss\obj\Debug\net6.0-windows\ref\TREEVIEW inss.dll
