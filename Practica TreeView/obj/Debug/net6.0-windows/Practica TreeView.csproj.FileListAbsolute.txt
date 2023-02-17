@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\bin\Debug\net6.0-windows\Practica TreeView.exe
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\bin\Debug\net6.0-windows\Practica TreeView.deps.json
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\bin\Debug\net6.0-windows\Practica TreeView.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\bin\Debug\net6.0-windows\Practica TreeView.dll
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\bin\Debug\net6.0-windows\Practica TreeView.pdb
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica_TreeView.Form1.resources
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.dll
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\refint\Practica TreeView.dll
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.pdb
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\Practica TreeView.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\ReInicio C#\curso de verano\Practica TreeView\obj\Debug\net6.0-windows\ref\Practica TreeView.dll
